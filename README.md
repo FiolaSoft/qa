@@ -4,14 +4,14 @@ Quality assurance (`binaries`) for your PHP projects
 
 -----
 
-[![Build Status](https://img.shields.io/travis/ninjify/qa.svg?style=flat-square)](https://travis-ci.org/ninjify/qa)
-[![Downloads total](https://img.shields.io/packagist/dt/ninjify/qa.svg?style=flat-square)](https://packagist.org/packages/ninjify/qa)
-[![Latest stable](https://img.shields.io/packagist/v/ninjify/qa.svg?style=flat-square)](https://packagist.org/packages/ninjify/qa)
+[![Build Status](https://img.shields.io/travis/fiolasoft/qa.svg?style=flat-square)](https://travis-ci.org/fiolasoft/qa)
+[![Downloads total](https://img.shields.io/packagist/dt/fiolasoft/qa.svg?style=flat-square)](https://packagist.org/packages/fiolasoft/qa)
+[![Latest stable](https://img.shields.io/packagist/v/fiolasoft/qa.svg?style=flat-square)](https://packagist.org/packages/fiolasoft/qa)
 
 ## Install
 
 ```bash
-composer require --dev ninjify/qa
+composer require --dev fiolasoft/qa
 ```
 
 ## Manual usage (bin)

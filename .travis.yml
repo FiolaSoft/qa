@@ -2,6 +2,7 @@ language: php
 
 php:
   - 7.1
+  - 7.2
 
 matrix:
   fast_finish: true
@@ -10,6 +11,10 @@ matrix:
     - php: 7.1
       env: COMPOSER_FLAG=--prefer-lowest
     - php: 7.1
+      env: COMPOSER_FLAG=--prefer-stable
+    - php: 7.2
+      env: COMPOSER_FLAG=--prefer-lowest
+    - php: 7.2
       env: COMPOSER_FLAG=--prefer-stable
 
 script:
